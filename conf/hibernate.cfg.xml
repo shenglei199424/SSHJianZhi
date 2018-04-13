@@ -29,7 +29,7 @@
 		<mapping resource="com/jianZhi/ssh/entities/Student.hbm.xml"/>
 		<mapping resource="com/jianZhi/ssh/entities/WorkKind.hbm.xml"/>
 		<mapping resource="com/jianZhi/ssh/entities/Recruitment.hbm.xml"/> test -->
-		
+		shenglei
 		
 	</session-factory>
 </hibernate-configuration>
